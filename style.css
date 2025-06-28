@@ -1,0 +1,50 @@
+#container{
+    margin-top:100px;
+    margin:  auto;
+    width:400px;
+
+}
+
+#box{
+    height: 500px;
+    width: 400px;
+    border: solid black;
+    background-color: antiquewhite;   
+}
+
+
+#login{
+    
+    height: 500px;
+    width: 400px;
+    border: solid black;
+    background-color: aliceblue;
+    margin: auto;
+    width: 400px;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+form{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+    
+}
+
+
+input[type="button"]{
+    background-color: rgb(10, 154, 106);
+}
+
+body{
+    background-image: url(hot-air-balloon-2411851_1280.jpg);
+    /* background-image: url(download.jpg); */
+}   
+
+
